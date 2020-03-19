@@ -1,0 +1,10 @@
+Person:
+  name: shumengwei
+  age: 20
+  happy: false
+  brithday: 2019/12/12
+  map: {k1: v1,k2: v2}
+  list: [dog,cat]
+  dog:
+    name: 战三
+    age: 12
